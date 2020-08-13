@@ -10,7 +10,9 @@
 6. git push origin master / force = git push -f origin master
 
 git branch (branchname) : 새로운 브런치 생성
+
 git checkout (branchname) : 해당 브랜치로 이동
+
 git pull origin (branch) : 원격 저장소의 특정 브랜치에서 변경사항 pull
 
 -------------------------------------------------------------------------
